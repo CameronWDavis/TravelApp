@@ -10,6 +10,5 @@ This web application helps users organize and track their packing for trips. Use
 - **Packing Statistics**: The app shows stats on the number of items packed and the percentage of the packing completed.
 
 
-## Pictures of the images full and not full 
-(pictures/inUse.png)
-(images/fulllist.png)
+
+![Screenshot of Travel Packing List App](pictures/inUse.png)
