@@ -11,5 +11,5 @@ This web application helps users organize and track their packing for trips. Use
 
 
 ## Pictures of the images full and not full 
-(images/inUse.png)
+(pictures/inUse.png)
 (images/fulllist.png)
